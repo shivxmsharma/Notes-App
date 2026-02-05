@@ -5,6 +5,14 @@ This app allows users to quickly add and delete notes in real time with a beauti
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of the project here:
+
+🔗 **Live Demo:** https://notes-app-gamma-vert.vercel.app/  *(Update this if you deploy in future)*
+
+---
+
 ## 🚀 Features
 
 - ✍️ Add new notes with title and description  
@@ -27,7 +35,7 @@ This app allows users to quickly add and delete notes in real time with a beauti
 
 ## 📸 Application Overview
 
-The app has two main sections:
+The app is divided into two main sections:
 
 ### Left Section
 - Form to add new notes  
@@ -37,25 +45,25 @@ The app has two main sections:
 
 ### Right Section
 - Displays all recently added notes  
-- Each note is shown as a sticky note card  
+- Each note appears as a sticky-note styled card  
 - Delete button available on each note  
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Follow the steps below to run this project on your local system:
+Follow these steps to run this project locally:
 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shivxmsharma/Notes-App.git
 ```
 
 ### 2. Navigate to Project Folder
 
 ```bash
-cd notes-app
+cd Notes-App
 ```
 
 ### 3. Install Dependencies
@@ -70,7 +78,7 @@ npm install
 npm run dev
 ```
 
-The app will run at:
+The app will be available at:
 
 ```
 http://localhost:5173
@@ -81,7 +89,7 @@ http://localhost:5173
 ## 📂 Project Structure
 
 ```
-notes-app/
+Notes-App/
 │── src/
 │   │── App.jsx        # Main application component
 │   │── main.jsx       # React root file
@@ -152,7 +160,7 @@ const deleteNote = (idx) => {
 
 ## 🔮 Future Enhancements
 
-Some features that can be added in future versions:
+Planned improvements for the project:
 
 - ✏️ Edit existing notes  
 - 💾 Save notes using Local Storage  
@@ -172,6 +180,15 @@ Contributions are always welcome!
 3. Commit your changes  
 4. Push to the branch  
 5. Open a pull request  
+
+---
+
+## 👨‍💻 Author
+
+**Shivam Sharma**
+
+- GitHub: https://github.com/shivxmsharma  
+- LinkedIn: https://www.linkedin.com/in/shivxmsharma/
 
 ---
 
