@@ -9,7 +9,7 @@ This app allows users to quickly add and delete notes in real time with a beauti
 
 Check out the live version of the project here:
 
-🔗 **Live Demo:** https://notes-app-gamma-vert.vercel.app/  *(Update this if you deploy in future)*
+🔗 **Live Demo:** https://notes-app-six-red.vercel.app/
 
 ---
 
